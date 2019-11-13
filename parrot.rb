@@ -2,5 +2,5 @@
 # returns the phrase
 
 
-Parrot = "Squawk!"
+phrase = Parrot "Squawk!"
  puts 
