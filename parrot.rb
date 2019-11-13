@@ -2,8 +2,9 @@
 
 
 
+def parrot_ruby(squawk)
+  puts squawk 
+  return  
+end 
 
-def parrot("Squawk!")
-  puts "#Squawk!"
-  "#Squawk!"
-end
+parrot_ruby("Squawk!")
