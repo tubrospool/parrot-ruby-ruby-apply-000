@@ -3,7 +3,7 @@
 
 
 
-def parrot(string="Squawk!")
-  puts "#{string}"
-  "#{string}"
+def parrot("Squawk!")
+  puts "#Squawk!"
+  "#Squawk!"
 end
